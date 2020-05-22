@@ -1,4 +1,8 @@
 pragma solidity ^0.4.24;
+/*
+    basic payable function practice
+    msg and address
+*/
 contract CrowdFunding {
     struct Investor {
         address addr;
