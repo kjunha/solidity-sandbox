@@ -1,0 +1,92 @@
+INFO [05-25|15:23:42.983] Starting Geth in ephemeral dev mode... 
+INFO [05-25|15:23:42.984] Maximum peer count                       ETH=0 LES=0 total=0
+WARN [05-25|15:23:42.984] The flag --rpc is deprecated and will be removed in the future, please use --http 
+INFO [05-25|15:23:44.840] Using developer account                  address=0x13C022512b2C2dA187CFB73cf5AeB48169E9E4E7
+INFO [05-25|15:23:44.840] Starting peer-to-peer node               instance=Geth/v1.9.14-stable/darwin-amd64/go1.14.2
+INFO [05-25|15:23:44.840] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [05-25|15:23:44.840] Allocated cache and file handles         database=/Users/junhakim/Developer/ethereum-webapp/geth/chaindata cache=512.00MiB handles=5120
+INFO [05-25|15:23:44.924] Opened ancient database                  database=/Users/junhakim/Developer/ethereum-webapp/geth/chaindata/ancient
+INFO [05-25|15:23:44.925] Persisted trie from memory database      nodes=12 size=1.74KiB time="65.223µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+Fatal: Error starting protocol stack: database contains incompatible genesis (have f6cdc9b644119513f3857b5f664ddd510ac845daaf80c4fbbb9e50408c2b49e8, new 482a39193c3a02c6ad1a8151c74769dcdcac63d3a04493bb44fd3c14484b6446)
+INFO [05-25|15:24:25.278] Starting Geth in ephemeral dev mode... 
+INFO [05-25|15:24:25.279] Maximum peer count                       ETH=0 LES=0 total=0
+WARN [05-25|15:24:25.279] The flag --rpc is deprecated and will be removed in the future, please use --http 
+INFO [05-25|15:24:25.945] Using developer account                  address=0x13C022512b2C2dA187CFB73cf5AeB48169E9E4E7
+INFO [05-25|15:24:25.945] Starting peer-to-peer node               instance=Geth/v1.9.14-stable/darwin-amd64/go1.14.2
+INFO [05-25|15:24:25.945] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [05-25|15:24:25.945] Allocated cache and file handles         database=/Users/junhakim/Developer/ethereum-webapp/geth/chaindata cache=512.00MiB handles=5120
+INFO [05-25|15:24:25.986] Opened ancient database                  database=/Users/junhakim/Developer/ethereum-webapp/geth/chaindata/ancient
+INFO [05-25|15:24:25.987] Persisted trie from memory database      nodes=12 size=1.74KiB time="56.462µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+Fatal: Error starting protocol stack: database contains incompatible genesis (have f6cdc9b644119513f3857b5f664ddd510ac845daaf80c4fbbb9e50408c2b49e8, new 482a39193c3a02c6ad1a8151c74769dcdcac63d3a04493bb44fd3c14484b6446)
+INFO [05-25|15:24:37.689] Starting Geth in ephemeral dev mode... 
+INFO [05-25|15:24:37.690] Maximum peer count                       ETH=50 LES=0 total=50
+WARN [05-25|15:24:37.690] The flag --rpc is deprecated and will be removed in the future, please use --http 
+INFO [05-25|15:24:38.351] Using developer account                  address=0x13C022512b2C2dA187CFB73cf5AeB48169E9E4E7
+INFO [05-25|15:24:38.352] Starting peer-to-peer node               instance=Geth/v1.9.14-stable/darwin-amd64/go1.14.2
+INFO [05-25|15:24:38.352] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [05-25|15:24:38.352] Allocated cache and file handles         database=/Users/junhakim/Developer/ethereum-webapp/geth/chaindata cache=512.00MiB handles=5120
+INFO [05-25|15:24:38.382] Opened ancient database                  database=/Users/junhakim/Developer/ethereum-webapp/geth/chaindata/ancient
+INFO [05-25|15:24:38.383] Persisted trie from memory database      nodes=12 size=1.74KiB time="47.079µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+Fatal: Error starting protocol stack: database contains incompatible genesis (have f6cdc9b644119513f3857b5f664ddd510ac845daaf80c4fbbb9e50408c2b49e8, new 482a39193c3a02c6ad1a8151c74769dcdcac63d3a04493bb44fd3c14484b6446)
+INFO [05-25|15:25:48.346] Starting Geth in ephemeral dev mode... 
+INFO [05-25|15:25:48.347] Maximum peer count                       ETH=50 LES=0 total=50
+WARN [05-25|15:25:48.347] The flag --rpc is deprecated and will be removed in the future, please use --http 
+INFO [05-25|15:25:50.208] Using developer account                  address=0x86e64FF419c7775B209C0cb0D21F84e8AD3566b2
+INFO [05-25|15:25:50.208] Starting peer-to-peer node               instance=Geth/v1.9.14-stable/darwin-amd64/go1.14.2
+INFO [05-25|15:25:50.208] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [05-25|15:25:50.208] Writing custom genesis block 
+INFO [05-25|15:25:50.209] Persisted trie from memory database      nodes=11 size=1.66KiB time="24.934µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [05-25|15:25:50.209] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: 0 Petersburg: 0 Istanbul: 0, Muir Glacier: <nil>, Engine: clique}"
+INFO [05-25|15:25:50.209] Initialising Ethereum protocol           versions="[65 64 63]" network=1337 dbversion=<nil>
+WARN [05-25|15:25:50.209] Upgrade blockchain database version      from=<nil> to=7
+INFO [05-25|15:25:50.209] Loaded most recent local header          number=0 hash="ae029d…acd4b6" td=1 age=51y1mo2w
+INFO [05-25|15:25:50.209] Loaded most recent local full block      number=0 hash="ae029d…acd4b6" td=1 age=51y1mo2w
+INFO [05-25|15:25:50.209] Loaded most recent local fast block      number=0 hash="ae029d…acd4b6" td=1 age=51y1mo2w
+INFO [05-25|15:25:50.326] Allocated fast sync bloom                size=512.00MiB
+INFO [05-25|15:25:50.326] Initialized fast sync bloom              items=11 errorrate=0.000 elapsed="94.135µs"
+INFO [05-25|15:25:50.327] Stored checkpoint snapshot to disk       number=0 hash="ae029d…acd4b6"
+INFO [05-25|15:25:50.328] started whisper v.6.0 
+INFO [05-25|15:25:50.328] New local node record                    seq=1 id=d543cab40cf45385 ip=127.0.0.1 udp=0 tcp=50770
+INFO [05-25|15:25:50.328] Started P2P networking                   self="enode://6f403de3226c177d93263d9f3cc2f1eed3d8664917d23af709014357b6100035c6fa8223bc5a0d21260c942aacf639f99078f01185f3e5d6b41dfc36eeb150fd@127.0.0.1:50770?discport=0"
+INFO [05-25|15:25:50.329] IPC endpoint opened                      url=/var/folders/98/v68tjr_j7ps4fg2gplcxn7p00000gn/T/geth.ipc
+INFO [05-25|15:25:50.329] HTTP endpoint opened                     url=http://127.0.0.1:8545/ cors= vhosts=localhost
+WARN [05-25|15:25:50.329] ------------------------------------------------------------------- 
+WARN [05-25|15:25:50.329] Referring to accounts by order in the keystore folder is dangerous! 
+WARN [05-25|15:25:50.329] This functionality is deprecated and will be removed in the future! 
+WARN [05-25|15:25:50.329] Please use explicit addresses! (can search via `geth account list`) 
+WARN [05-25|15:25:50.329] ------------------------------------------------------------------- 
+INFO [05-25|15:25:52.566] Unlocked account                         address=0x86e64FF419c7775B209C0cb0D21F84e8AD3566b2
+INFO [05-25|15:25:52.566] Transaction pool price threshold updated price=1000000000
+INFO [05-25|15:25:52.566] Transaction pool price threshold updated price=1
+INFO [05-25|15:25:52.566] Etherbase automatically configured       address=0x86e64FF419c7775B209C0cb0D21F84e8AD3566b2
+INFO [05-25|15:25:52.566] Commit new mining work                   number=1 sealhash="cb7a9e…d729af" uncles=0 txs=0 gas=0 fees=0 elapsed="51.603µs"
+INFO [05-25|15:25:52.566] Sealing paused, waiting for transactions 
+INFO [05-25|15:36:06.844] Setting new local account                address=0x86e64FF419c7775B209C0cb0D21F84e8AD3566b2
+INFO [05-25|15:36:06.844] Submitted transaction                    fullhash=0xdf36a6b9c377e3b1942c7066add74f7fdbce5e36f90b584bddb585c13c09e9b7 recipient=0xF7f02f65d5CD874D180c3575cB8813a9e7736066
+INFO [05-25|15:36:06.844] Commit new mining work                   number=1 sealhash="bfbd03…6529c3" uncles=0 txs=1 gas=23120 fees=2.312e-14 elapsed="158.028µs"
+INFO [05-25|15:36:06.844] Successfully sealed new block            number=1 sealhash="bfbd03…6529c3" hash="0e6290…435edc" elapsed="274.983µs"
+INFO [05-25|15:36:06.844] 🔨 mined potential block                  number=1 hash="0e6290…435edc"
+INFO [05-25|15:36:06.845] Commit new mining work                   number=2 sealhash="676413…b412d6" uncles=0 txs=0 gas=0     fees=0         elapsed="241.136µs"
+INFO [05-25|15:36:06.845] Sealing paused, waiting for transactions 
+INFO [05-25|15:36:19.629] Submitted transaction                    fullhash=0xc06df2bc2b92992e64383830c1d52d2ed199d14cd457be3d97540233fc470a1b recipient=0xF7f02f65d5CD874D180c3575cB8813a9e7736066
+INFO [05-25|15:36:19.629] Commit new mining work                   number=2 sealhash="fdee12…34449f" uncles=0 txs=1 gas=23120 fees=2.312e-14 elapsed="111.499µs"
+INFO [05-25|15:36:19.629] Successfully sealed new block            number=2 sealhash="fdee12…34449f" hash="fdb032…09c582" elapsed="247.386µs"
+INFO [05-25|15:36:19.629] 🔨 mined potential block                  number=2 hash="fdb032…09c582"
+INFO [05-25|15:36:19.629] Commit new mining work                   number=3 sealhash="e81e44…49454f" uncles=0 txs=0 gas=0     fees=0         elapsed="223.522µs"
+INFO [05-25|15:36:19.629] Sealing paused, waiting for transactions 
+INFO [05-25|15:36:29.570] Submitted transaction                    fullhash=0x5676aaeff3742f4e5e0d4512f6faef1db4ce4137d165c29e18f91165ebea1051 recipient=0xF7f02f65d5CD874D180c3575cB8813a9e7736066
+INFO [05-25|15:36:29.570] Commit new mining work                   number=3 sealhash="34fc2b…b47761" uncles=0 txs=1 gas=23120 fees=2.312e-14 elapsed="89.713µs"
+INFO [05-25|15:36:29.570] Successfully sealed new block            number=3 sealhash="34fc2b…b47761" hash="cc6842…1a0fb6" elapsed="223.94µs"
+INFO [05-25|15:36:29.570] 🔨 mined potential block                  number=3 hash="cc6842…1a0fb6"
+INFO [05-25|15:36:29.570] Commit new mining work                   number=4 sealhash="cb15fa…b84560" uncles=0 txs=0 gas=0     fees=0         elapsed="232.038µs"
+INFO [05-25|15:36:29.570] Sealing paused, waiting for transactions 
+INFO [05-25|16:03:12.433] HTTP endpoint closed                     url=http://127.0.0.1:8545/
+INFO [05-25|16:03:12.434] IPC endpoint closed                      url=/var/folders/98/v68tjr_j7ps4fg2gplcxn7p00000gn/T/geth.ipc
+INFO [05-25|16:03:12.434] Ethereum protocol stopped 
+INFO [05-25|16:03:12.434] Transaction pool stopped 
+INFO [05-25|16:03:12.434] Writing cached state to disk             block=3 hash="cc6842…1a0fb6" root="145f93…6a7897"
+INFO [05-25|16:03:12.434] Persisted trie from memory database      nodes=2  size=477.00B   time="82.055µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=5 livesize=954.00B
+INFO [05-25|16:03:12.434] Writing cached state to disk             block=2 hash="fdb032…09c582" root="f3e929…6989ab"
+INFO [05-25|16:03:12.434] Persisted trie from memory database      nodes=2  size=477.00B   time="23.075µs" gcnodes=0 gcsize=0.00B gctime=0s livenodes=3 livesize=477.00B
+INFO [05-25|16:03:12.434] Blockchain stopped 
+INFO [05-25|16:03:12.434] whisper stopped 

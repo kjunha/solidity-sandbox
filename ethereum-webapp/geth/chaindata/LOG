@@ -1,0 +1,48 @@
+=============== May 25, 2020 (KST) ===============
+14:58:56.463997 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:58:56.476443 db@open opening
+14:58:56.477515 version@stat F·[] S·0B[] Sc·[]
+14:58:56.484862 db@janitor F·2 G·0
+14:58:56.484932 db@open done T·8.438092ms
+14:58:56.485721 db@close closing
+14:58:56.485813 db@close done T·91.269µs
+=============== May 25, 2020 (KST) ===============
+15:23:44.840904 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:23:44.841097 version@stat F·[] S·0B[] Sc·[]
+15:23:44.841118 db@open opening
+15:23:44.841171 journal@recovery F·1
+15:23:44.845033 journal@recovery recovering @1
+15:23:44.853582 memdb@flush created L0@2 N·10 S·547B "H\xf6\xcd..+I\xe8,v3":"r\x00\x00..+I\xe8,v5"
+15:23:44.858790 version@stat F·[1] S·547B[547B] Sc·[0.25]
+15:23:44.879302 db@janitor F·3 G·0
+15:23:44.879358 db@open done T·38.225546ms
+=============== May 25, 2020 (KST) ===============
+15:24:17.124001 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:24:17.124243 version@stat F·[1] S·547B[547B] Sc·[0.25]
+15:24:17.124270 db@open opening
+15:24:17.124351 journal@recovery F·1
+15:24:17.124774 journal@recovery recovering @3
+15:24:17.125252 version@stat F·[1] S·547B[547B] Sc·[0.25]
+15:24:17.146095 db@janitor F·3 G·0
+15:24:17.146141 db@open done T·21.86029ms
+15:24:17.146645 db@close closing
+15:24:17.146768 db@close done T·121.905µs
+=============== May 25, 2020 (KST) ===============
+15:24:25.945827 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:24:25.946015 version@stat F·[1] S·547B[547B] Sc·[0.25]
+15:24:25.946037 db@open opening
+15:24:25.946098 journal@recovery F·1
+15:24:25.947539 journal@recovery recovering @5
+15:24:25.956659 memdb@flush created L0@7 N·1 S·280B "eth..+I\xe8,v12":"eth..+I\xe8,v12"
+15:24:25.959456 version@stat F·[2] S·827B[827B] Sc·[0.50]
+15:24:25.982781 db@janitor F·4 G·0
+15:24:25.982857 db@open done T·36.807022ms
+=============== May 25, 2020 (KST) ===============
+15:24:38.352296 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:24:38.352530 version@stat F·[2] S·827B[827B] Sc·[0.50]
+15:24:38.352552 db@open opening
+15:24:38.352613 journal@recovery F·1
+15:24:38.354008 journal@recovery recovering @8
+15:24:38.355862 version@stat F·[2] S·827B[827B] Sc·[0.50]
+15:24:38.378910 db@janitor F·4 G·0
+15:24:38.378977 db@open done T·26.406578ms

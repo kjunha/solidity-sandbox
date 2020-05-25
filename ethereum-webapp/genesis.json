@@ -1,0 +1,12 @@
+{
+    "config": {
+        "chainId":15,
+        "homesteadBlock":0
+    },
+    "nonce":"0x0000000000000042",
+    "timestamp":"0x0",
+    "difficulty": "20",
+    "gasLimit": "2100000",
+    "alloc": {},
+    "extraData":"0x00"
+}
